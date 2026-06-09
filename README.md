@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/imad-bounaceur-a7b26a261>
+  <a href="https://www.linkedin.com/in/imad-bounaceur-a7b26a261">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bounaceur.imad19@email.com">
@@ -14,7 +14,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ImadBounaceur&color=6366f1&style=flat&label=Profile+views"/>
 </p>
-
 ---
 
 ## About me
