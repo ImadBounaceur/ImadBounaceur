@@ -12,7 +12,7 @@
   <a href="mailto:bounaceur.imad19@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ImadBounaceur&color=6366f1&style=flat&label=Profile+views"/>
+ 
 </p>
 ---
 
